@@ -17,18 +17,23 @@ With a background in finance and engineering, I work across systematic investing
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,cpp,sql,git,vscode,latex,linux,bash,matlab" alt="Skills and Tools"/>
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,sql,git,vscode,pycharm,latex,linux,bash,matlab,docker,azure,github" alt="Skills and Tools"/>
   </a>
 </p>
+
+<p align="center">
+  <b>Also worked with:</b> HPC clusters (WU), SLURM job arrays, WRDS, Bloomberg Terminal, Refinitiv, GitHub Actions
+</p>
+
 
 ---
 
 ### ✨ Personal Notes
 
-- I enjoy simplifying complex systems — whether in markets, code, or theory  
+- I enjoy simplifying complex systems, whether in markets, code, or theory  
 - Macro trends, volatility structures, and FX dynamics are recurring themes in my work  
 - Passionate about aesthetics in both modeling and design  
-- Always up for a long run, a good espresso, or an elegant research paper ☕
+- I enjoy good espresso, elegant research papers, and exploring nature, ideas, or motion
 
 ---
 
