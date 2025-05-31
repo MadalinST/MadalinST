@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MadalinST/Madalin-Stefan-Titiriga/main/cover.jpg" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/MadalinST/MadalinST/main/cover.jpg" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi, I'm Madalin-Stefan Titiriga 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MadalinST.visitor" />
