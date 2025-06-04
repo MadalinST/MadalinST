@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I explore the intersection of quantitative finance, data science, and applied research — with a focus on building robust models, strategies, and tools for modern asset management.
 
@@ -13,7 +13,7 @@ With a background in finance and engineering, I work across systematic investing
 
 ---
 
-### ⚙️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ With a background in finance and engineering, I work across systematic investing
 
 ---
 
-### ✨ Personal Notes
+### Personal Notes
 
 - I enjoy simplifying complex systems, whether in markets, code, or theory  
 - Macro trends, volatility structures, and FX dynamics are recurring themes in my work  
@@ -37,7 +37,7 @@ With a background in finance and engineering, I work across systematic investing
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/madalin-stefan-titiriga" target="_blank">
